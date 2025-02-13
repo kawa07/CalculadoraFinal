@@ -1,0 +1,16 @@
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\net8.0-windows\CalculadoraFinal.exe
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\net8.0-windows\CalculadoraFinal.deps.json
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\net8.0-windows\CalculadoraFinal.runtimeconfig.json
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\net8.0-windows\CalculadoraFinal.dll
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\bin\Debug\net8.0-windows\CalculadoraFinal.pdb
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.Form1.resources
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.csproj.GenerateResource.cache
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.AssemblyInfoInputs.cache
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.AssemblyInfo.cs
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.csproj.CoreCompileInputs.cache
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.dll
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\refint\CalculadoraFinal.dll
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.pdb
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\CalculadoraFinal.genruntimeconfig.cache
+C:\Users\goust\source\repos\CalculadoraFinal\CalculadoraFinal\obj\Debug\net8.0-windows\ref\CalculadoraFinal.dll
